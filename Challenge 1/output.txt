@@ -1,0 +1,116 @@
+create_vm "MyVM" "Linux_64" 2 2048 128 20000 "SAT_Controlller" "IDE_Controller" 
+Virtual machine 'MyVM' is created and registered.
+UUID: 17eb0534-949b-449c-950e-9f7cc7b2143e
+Settings file: '/home/pabloluna/VirtualBox VMs/MyVM/MyVM.vbox'
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+Medium created. UUID: b4a0dd15-9994-4aa0-b250-67abb0054708
+Name:                        MyVM
+Encryption:                  disabled
+Groups:                      /
+Guest OS:                    Other Linux (64-bit)
+UUID:                        17eb0534-949b-449c-950e-9f7cc7b2143e
+Config file:                 /home/pabloluna/VirtualBox VMs/MyVM/MyVM.vbox
+Snapshot folder:             /home/pabloluna/VirtualBox VMs/MyVM/Snapshots
+Log folder:                  /home/pabloluna/VirtualBox VMs/MyVM/Logs
+Hardware UUID:               17eb0534-949b-449c-950e-9f7cc7b2143e
+Memory size:                 2048MB
+Page Fusion:                 disabled
+VRAM size:                   128MB
+CPU exec cap:                100%
+HPET:                        disabled
+CPUProfile:                  host
+Chipset:                     piix3
+Firmware:                    BIOS
+Number of CPUs:              2
+PAE:                         enabled
+Long Mode:                   enabled
+Triple Fault Reset:          disabled
+APIC:                        enabled
+X2APIC:                      enabled
+Nested VT-x/AMD-V:           disabled
+CPUID Portability Level:     0
+CPUID overrides:             None
+Boot menu mode:              message and menu
+Boot Device 1:               Floppy
+Boot Device 2:               DVD
+Boot Device 3:               HardDisk
+Boot Device 4:               Not Assigned
+ACPI:                        enabled
+IOAPIC:                      enabled
+BIOS APIC mode:              APIC
+Time offset:                 0ms
+BIOS NVRAM File:             /home/pabloluna/VirtualBox VMs/MyVM/MyVM.nvram
+RTC:                         local time
+Hardware Virtualization:     enabled
+Nested Paging:               enabled
+Large Pages:                 enabled
+VT-x VPID:                   enabled
+VT-x Unrestricted Exec.:     enabled
+AMD-V Virt. Vmsave/Vmload:   enabled
+IOMMU:                       None
+Paravirt. Provider:          Default
+Effective Paravirt. Prov.:   KVM
+State:                       powered off (since 2024-10-14T22:47:18.286000000)
+Graphics Controller:         VBoxVGA
+Monitor count:               1
+3D Acceleration:             disabled
+2D Video Acceleration:       disabled
+Teleporter Enabled:          disabled
+Teleporter Port:             0
+Teleporter Address:          
+Teleporter Password:         
+Tracing Enabled:             disabled
+Allow Tracing to Access VM:  disabled
+Tracing Configuration:       
+Autostart Enabled:           disabled
+Autostart Delay:             0
+Default Frontend:            
+VM process priority:         default
+Storage Controllers:
+#0: 'SAT_Controlller', Type: IntelAhci, Instance: 0, Ports: 30 (max 30), Bootable
+  Port 0, Unit 0: UUID: b4a0dd15-9994-4aa0-b250-67abb0054708
+    Location: "/home/pabloluna/MyVM.vdi"
+#1: 'IDE_Controller', Type: PIIX4, Instance: 0, Ports: 2 (max 2), Bootable
+NIC 1:                       MAC: 08002733698F, Attachment: NAT, Cable connected: on, Trace: off (file: none), Type: 82540EM, Reported speed: 0 Mbps, Boot priority: 0, Promisc Policy: deny, Bandwidth group: none
+NIC 1 Settings:  MTU: 0, Socket (send: 64, receive: 64), TCP Window (send:64, receive: 64)
+NIC 2:                       disabled
+NIC 3:                       disabled
+NIC 4:                       disabled
+NIC 5:                       disabled
+NIC 6:                       disabled
+NIC 7:                       disabled
+NIC 8:                       disabled
+Pointing Device:             PS/2 Mouse
+Keyboard Device:             PS/2 Keyboard
+UART 1:                      disabled
+UART 2:                      disabled
+UART 3:                      disabled
+UART 4:                      disabled
+LPT 1:                       disabled
+LPT 2:                       disabled
+Audio:                       enabled (Driver: Default, Controller: AC97, Codec: STAC9700)
+Audio playback:              disabled
+Audio capture:               disabled
+Clipboard Mode:              disabled
+Drag and drop Mode:          disabled
+VRDE:                        disabled
+OHCI USB:                    disabled
+EHCI USB:                    disabled
+xHCI USB:                    disabled
+USB Device Filters:          <none>
+Bandwidth groups:            <none>
+Shared folders:              <none>
+Recording enabled:           no
+Recording screens:           1
+ Screen 0:
+    Enabled:                 yes
+    ID:                      0
+    Record video:            yes
+    Destination:             File
+    File:                    /home/pabloluna/VirtualBox VMs/MyVM/MyVM-screen0.webm
+    Options:                 vc_enabled=true,ac_enabled=false,ac_profile=med
+    Video dimensions:        1024x768
+    Video rate:              512kbps
+    Video FPS:               25fps
+* Guest:
+Configured memory balloon:   0MB
