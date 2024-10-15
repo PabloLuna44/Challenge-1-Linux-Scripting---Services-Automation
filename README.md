@@ -16,7 +16,7 @@ Al ejecutarse, el script debe recibir -desde la línea de comandos,  los siguien
 
 ## ⚙️ Implementacion
 
-Primeramente, actualizo los paquetes con 
+Primeramente, se actualizan los paquetes con 
 
 ```bash
 sudo apt update
@@ -33,7 +33,11 @@ Después abrimos el siguiente archivo de configuración para establecer el coman
 
 ![image](https://github.com/user-attachments/assets/f79c05ba-73f1-4952-a13f-19d268b56a85)
 
+Después declaramos el comando y agregamos el script a ejecutar con ese comando 
+
 ![image](https://github.com/user-attachments/assets/8e280ee8-908d-4696-8baa-c196c1f3be0d)
+
+Usamos source ~/bashrc para aplicar los cambios 
 
 ![image](https://github.com/user-attachments/assets/f10deb1b-919b-49bc-8813-42f3824242ff)
 
