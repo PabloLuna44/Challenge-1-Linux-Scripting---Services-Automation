@@ -44,11 +44,11 @@ Usamos source ~/bashrc para aplicar los cambios
 ##  🖥️ Resultados 
 
 Ejecutamos el comando con los siguientes parámetros para la creación de la maquina virtual 
-•	Nombre de la máquina virtual y tipo de sistema operativo que soportará; Linux en esta ocasión. A partir de esta info, el script se encargará de crear y configurar la MV.
-•	Número de CPUS y tamaños de Memoria (GB) ram, vram. A partir de esta info, el script se encargará de crear y configurar dichos componentes.
-•	Tamaño de disco duro virtual. A partir de esta info, el script se encargará de crear y configurar un virtual hard disk para la VM.
-•	Nombre de un controlador SATA, el cual debe ser creado, configurado y asociado a la MV a través del Script.  El script debe asociar este controlador al Virtual Hard Disk.
-•	El nombre de un controlador IDE, el cual debe ser creado, configurado y asociado a la MV a través del Script para contar con CD/DVD.
+- Nombre de la máquina virtual y tipo de sistema operativo que soportará; Linux en esta ocasión. A partir de esta info, el script se encargará de crear y configurar la MV.
+- Número de CPUS y tamaños de Memoria (GB) ram, vram. A partir de esta info, el script se encargará de crear y configurar dichos componentes.
+- Tamaño de disco duro virtual. A partir de esta info, el script se encargará de crear y configurar un virtual hard disk para la VM.
+- Nombre de un controlador SATA, el cual debe ser creado, configurado y asociado a la MV a través del Script.  El script debe asociar este controlador al Virtual Hard Disk.
+- El nombre de un controlador IDE, el cual debe ser creado, configurado y asociado a la MV a través del Script para contar con CD/DVD.
 
 
 ![image](https://github.com/user-attachments/assets/8ae5a388-b5d0-4847-a1a6-7a1a8846c72f)
